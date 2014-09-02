@@ -4,6 +4,7 @@ MassiveMultiMauMau
 [![Build Status](https://travis-ci.org/TooAngel/MauMau.svg?branch=master)](https://travis-ci.org/TooAngel/MauMau)
 [![Coverage Status](https://coveralls.io/repos/TooAngel/MauMau/badge.png)](https://coveralls.io/r/TooAngel/MauMau)
 [![Dependency Status](https://gemnasium.com/TooAngel/MauMau.svg)](https://gemnasium.com/TooAngel/MauMau)
+[![Dependency Status](https://www.versioneye.com/user/projects/54056ac5ccc023019400001e/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54056ac5ccc023019400001e)
 
 
 An implementation of the popular cardgame https://en.wikipedia.org/wiki/Mau_Mau_(card_game)
