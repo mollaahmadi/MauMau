@@ -5,7 +5,7 @@ jsonschema==2.4
 pep8==1.5.7
 python-coveralls==2.4.2
 mock==1.0.1
-pytest==2.6.1
+pytest==2.6.2
 pytest-pep8==1.0.6
 pytest-cov==1.8
 gunicorn==19.1.1
