@@ -7,7 +7,7 @@ python-coveralls==2.4.3
 mock==1.0.1
 pytest==2.6.3
 pytest-pep8==1.0.6
-pytest-cov==1.8
+pytest-cov==1.8.1
 gunicorn==19.1.1
 gevent==1.0.1
 gevent-websocket==0.9.3
