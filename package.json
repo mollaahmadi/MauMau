@@ -13,7 +13,7 @@
     "grunt-jsonlint": "1.0.4",
     "grunt-flake8": "0.1.3",
     "grunt-nose": "0.4.0",
-    "grunt-html": "1.4.0"
+    "grunt-html": "1.6.0"
   },
   "description": "MauMau",
   "version": "0.0.1",
